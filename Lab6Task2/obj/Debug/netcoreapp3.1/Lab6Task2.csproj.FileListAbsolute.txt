@@ -1,0 +1,11 @@
+D:\Загрузки Google Chrome\Lab6Task2 - Copy\Lab6Task2\bin\Debug\netcoreapp3.1\Lab6Task2.exe
+D:\Загрузки Google Chrome\Lab6Task2 - Copy\Lab6Task2\bin\Debug\netcoreapp3.1\Lab6Task2.deps.json
+D:\Загрузки Google Chrome\Lab6Task2 - Copy\Lab6Task2\bin\Debug\netcoreapp3.1\Lab6Task2.runtimeconfig.json
+D:\Загрузки Google Chrome\Lab6Task2 - Copy\Lab6Task2\bin\Debug\netcoreapp3.1\Lab6Task2.runtimeconfig.dev.json
+D:\Загрузки Google Chrome\Lab6Task2 - Copy\Lab6Task2\bin\Debug\netcoreapp3.1\Lab6Task2.dll
+D:\Загрузки Google Chrome\Lab6Task2 - Copy\Lab6Task2\bin\Debug\netcoreapp3.1\Lab6Task2.pdb
+D:\Загрузки Google Chrome\Lab6Task2 - Copy\Lab6Task2\obj\Debug\netcoreapp3.1\Lab6Task2.csprojAssemblyReference.cache
+D:\Загрузки Google Chrome\Lab6Task2 - Copy\Lab6Task2\obj\Debug\netcoreapp3.1\Lab6Task2.AssemblyInfoInputs.cache
+D:\Загрузки Google Chrome\Lab6Task2 - Copy\Lab6Task2\obj\Debug\netcoreapp3.1\Lab6Task2.AssemblyInfo.cs
+D:\Загрузки Google Chrome\Lab6Task2 - Copy\Lab6Task2\obj\Debug\netcoreapp3.1\Lab6Task2.dll
+D:\Загрузки Google Chrome\Lab6Task2 - Copy\Lab6Task2\obj\Debug\netcoreapp3.1\Lab6Task2.pdb
